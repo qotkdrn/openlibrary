@@ -5,7 +5,6 @@ import web
 from openlibrary.catalog.utils import (
     author_dates_match,
     flip_name,
-    format_languages,
     key_int,
 )
 from openlibrary.core.helpers import extract_year
